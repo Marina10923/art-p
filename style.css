@@ -565,8 +565,10 @@ button {
         display: block;
         margin-right: auto;
         margin-left: auto;
-        margin-bottom: 30px;
+        margin:30px;
+        height: 300px;
     }
+
 
 
     .block-holder {
